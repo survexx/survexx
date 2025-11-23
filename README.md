@@ -5,9 +5,9 @@
 ## 📊 GitHub Stats
 ![Suraj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=survexx&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="YOUR_USERNAME" /> </p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=survexx&layout=compact&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=survexx&theme=tokyonight)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=survexx&label=Profile%20views&color=0e75b6&style=flat" alt="survexx" /> </p>
 
 
 ## 👨‍💻 About Me  
