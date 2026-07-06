@@ -36,7 +36,7 @@ Building scalable web applications and continuously improving my problem-solving
 
 - 🎓 B.Tech Student (7th Semester)
 - 💻 Learning Full Stack Development (MERN)
-- 📚 Solved **XXX+ DSA Problems**
+- 📚 Solved **150+ DSA Problems**
 - 🌱 Currently learning **System Design & Backend Development**
 - 🚀 Looking for **Software Engineering Internships**
 - ⚡ Interested in Web Development, Java and Problem Solving
