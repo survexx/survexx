@@ -73,16 +73,6 @@ Building scalable web applications and continuously improving my problem-solving
 
 ---
 
-# 🚀 Featured Projects
-
-| Project | Tech | Description |
-|---------|------|-------------|
-| Job Portal | MERN | Full Stack Job Portal with Authentication |
-| Portfolio | React | Personal Portfolio Website |
-| DSA Solutions | Java | LeetCode & Coding Problems |
-
----
-
 # 🎯 Current Goals
 
 - ✅ Master Data Structures & Algorithms
